@@ -1,4 +1,4 @@
-# CabbageExtraction
+# Cabbage Extraction
 This is a school project: a C++ program that can extract objects of a certain color from videos, using OpenCV.
 
 This code, by default, extracts the cabbages from the video: data/choux.mp4. You can also run it with the name of another video as parameter, but the extraction is based on the green color of the cabbages.
